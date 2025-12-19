@@ -105,9 +105,8 @@ Project_2_Transit_Access/
 
 ## 🔗 Full Documentation
 
-- **[Complete Methodology](methodology.md)** - Step-by-step analysis process, assumptions, and limitations
-- **[Detailed Findings](findings.md)** - Comprehensive results and expanded recommendations
-
+- **[Complete Methodology](methodology.pdf)** - Full analysis workflow, assumptions, and limitations
+- **[Detailed Findings](findings.pdf)** - Comprehensive results and recommendations
 ---
 
 ## 🎯 Portfolio Context
