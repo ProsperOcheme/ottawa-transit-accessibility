@@ -105,7 +105,7 @@ Project_2_Transit_Access/
 
 ## 🔗 Full Documentation
 
-- **[Complete Methodology](Project%202%20methodology.pdf)** - Full analysis workflow, assumptions, and limitations
+- **[Complete Methodology](methodology.pdf)** - Full analysis workflow, assumptions, and limitations
 - **[Detailed Findings](FINDINGS%20SUMMARY.pdf)** - Comprehensive results and recommendations
 ---
 
